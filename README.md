@@ -1,2 +1,7 @@
 # prj-ecommerce
-Project Test
+
+Tech Stack : 
+- Springboot
+- Kafka
+- Eureka
+- Docker
